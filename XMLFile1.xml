@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>https://picsum.photos/200/300</ImageUrl>
+		<NavigateUrl></NavigateUrl>
+		<Keyword>Online</Keyword>
+	</Ad>
+</Advertisements>
